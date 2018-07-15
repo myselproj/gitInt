@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="11501" started-at="2018-07-15T14:44:25Z" finished-at="2018-07-15T14:44:36Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="11501" started-at="2018-07-15T14:44:25Z" finished-at="2018-07-15T14:44:36Z">
+      <class name="gitInt.TestCase01">
+        <test-method status="PASS" signature="TC01()[pri:0, instance:gitInt.TestCase01@46d56d67]" name="TC01" duration-ms="11455" started-at="2018-07-15T14:44:25Z" finished-at="2018-07-15T14:44:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01 -->
+      </class> <!-- gitInt.TestCase01 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
